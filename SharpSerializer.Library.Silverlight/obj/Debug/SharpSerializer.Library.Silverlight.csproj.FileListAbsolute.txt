@@ -1,0 +1,5 @@
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\Bin\Debug\Polenter.SharpSerializer.Silverlight.dll
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\Bin\Debug\Polenter.SharpSerializer.Silverlight.pdb
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.dll
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.pdb
