@@ -10,3 +10,5 @@ glob:LocalTestRun.testrunconfig
 glob:*.user
 Bin/
 obj/
+*/Bin/*
+*/obj/*
