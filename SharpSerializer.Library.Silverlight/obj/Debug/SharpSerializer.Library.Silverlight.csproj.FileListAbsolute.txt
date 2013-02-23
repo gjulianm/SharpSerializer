@@ -4,3 +4,9 @@ C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Li
 C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\SharpSerializer.Library.Silverlight.csprojResolveAssemblyReference.cache
 C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.dll
 C:\Users\Guillermo\Dropbox\Ocell\Ocell.Common\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.pdb
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\Bin\Debug\Polenter.SharpSerializer.Silverlight.xml
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\Bin\Debug\Polenter.SharpSerializer.Silverlight.dll
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\Bin\Debug\Polenter.SharpSerializer.Silverlight.pdb
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\SharpSerializer.Library.Silverlight.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.dll
+C:\Users\Guillermo\Dropbox\Ocell\Ocell.ThirdParty\SharpSerializer\SharpSerializer.Library.Silverlight\obj\Debug\Polenter.SharpSerializer.Silverlight.pdb
